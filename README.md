@@ -3,7 +3,7 @@ RESTApi with node js , express and sqlite
 
 
 run 
-npm i 
+npm install
 
 start server  run this command 
 npm start
